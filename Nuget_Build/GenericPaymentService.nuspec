@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GenericPaymentService</id>
+    <title>GenericPaymentService</title>
+    <version>1.0.0</version>
+    <authors>Craig Noble</authors>
+    <description>An abstraction from a payment service, so you avoid integrating payment gateway specific logic into your application.</description>
+    <language>en-US</language>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+	<references>
+		<reference file="DelegateSerializer.dll" />
+	</references>
+  </metadata>
+  <files>
+	<file src="..\GenericPaymentService\bin\Debug\GenericPaymentService.dll" target="lib" />
+  </files>
+</package>
