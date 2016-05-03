@@ -1,1 +1,1 @@
-nuget pack delegateserializer.nuspec
+nuget pack genericpaymentservice.nuspec

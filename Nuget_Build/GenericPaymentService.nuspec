@@ -9,7 +9,7 @@
     <language>en-US</language>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
 	<references>
-		<reference file="DelegateSerializer.dll" />
+		<reference file="GenericPaymentService.dll" />
 	</references>
   </metadata>
   <files>
